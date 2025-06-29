@@ -1,0 +1,154 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    background-color: #c3cebd;
+    color: black;
+  }
+  .container {
+    width: 90%;
+    max-width: 1100px;
+    margin: auto;
+  }
+  
+  /* Navigation */
+  header {
+    background: #59c520;
+    padding: 1rem 0;
+  }
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo {
+    font-size: 1.5rem;
+    text-align: left;
+    display: inline-block;
+    margin: 10px;
+    margin-top: 12px;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  nav ul li a {
+    text-decoration: none;
+    color: #0a2129;
+  }
+  
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 4rem 0;
+    background: #c3cebd;
+  }
+  .hero h2 {
+    font-size: 2.5rem;
+  }
+  .the{
+    padding-bottom: 15px;
+    font-size: 1.3rem;
+  }
+  .btn {
+    background: #00bfff;
+    color: #121212;
+    padding: 0.7rem 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+    border-color: #121212;
+    border: 2px solid;
+  }
+  
+  /* Features */
+  .features {
+    background: #b8ccad;
+    padding: 3rem 0;
+    border-color: lawngreen;
+    border: 2px solid;
+  }
+  .features-grid :hover{
+    background-color: rgb(21, 21, 150);
+    color: #09bcf8;
+    cursor: pointer;
+  }
+  img{
+    border: 3px solid;
+    border-color: black;
+  }
+  .features-grid {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+  }
+  .feature-box {
+    background: #00bfff;
+    padding: 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  /* About */
+  .about {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    padding: 3rem 0;
+  }
+  .about img {
+    width: 200px;
+    border-radius: 10px;
+  }
+  
+  /* Footer */
+  footer {
+    background: #c3cebd;
+    text-align: center;
+    padding: 1rem 0;
+  }
+
+  #contact a {
+    color: navy;
+    text-decoration: none;
+  }
+  #contact a:hover {
+    text-decoration: underline;
+  }
+  #contact{
+    border-color: black;
+    border: 2px solid;
+    background-color: #a3c4a7;
+    padding: 10px;
+    margin: 5px;
+  }
+  #footer{
+    font-style: italic;
+    font-weight: 700;
+    font-size: medium;
+    padding-top: 18px;
+    padding-bottom: 10px;
+  }
+  ul :hover{
+    text-decoration: underline;
+    color: darkblue;
+    font-weight: 600;
+  }
+
+  .logo-container {
+    padding: 10px;
+    display: flex;
+    align-items: center;  /* aligns logo and text vertically */
+    gap: 10px;
+    cursor: pointer;
+    
+  }
+  .logo-pic{
+    width: 80px; 
+    height: auto;
+    border-radius: 44px; 
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .logo-pic:hover {
+    transform: scale(1.1); /* slightly enlarged */
+  }
