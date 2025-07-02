@@ -29,16 +29,18 @@ A simple and professional **personal portfolio** designed to showcase my skills 
 
 A clean and minimal personal branding landing page to highlight my identity as a tech enthusiast and web developer. Designed with a bright, modern light theme using only HTML and CSS.
 
-🌟 Features:
+🌟 Features
+
 - 🎨 **Light Theme Design** – Clean and simple layout with soft color palette
 - 🧾 **Introduction-Focused** – Emphasis on name, tagline, short bio, and CTA
 - 📱 **Responsive** – Looks great on mobile, tablet, and desktop
 
-🛠️ Tech Stack:
+## 🛠️ Tech Stack
 - **HTML** – Page structure
 - **CSS** – Styling and layout
 
-🚀 How to Use:
+## 🚀 How to Use
+ -**Source Code** - https://github.com/lokesh-g7/TechieCodes/tree/ab6e430b25702b440977de5d72f57ff4b8f55858/Task%202
 
 
 ### ✅ `Task 3` – 🔢 Simple Calculator Web App
@@ -80,7 +82,7 @@ A sleek and interactive **calculator** built using **HTML, CSS, and JavaScript**
 
 
 
-📌 Author
+### **📌 Author**
 
 Lokesh G
 Front-End Enthusiast | Tech Explorer
