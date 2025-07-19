@@ -19,7 +19,7 @@ A simple and professional **personal portfolio** designed to showcase my skills 
 - **CSS** – Custom styling, dark theme, responsiveness
 
 ## 🚀 How to Use
- -**Source Code** - https://github.com/lokesh-g7/TechieCodes/tree/ab6e430b25702b440977de5d72f57ff4b8f55858/Task%201
+ -**Source Code** - **[Task 1](https://github.com/lokesh-g7/TechieCodes/tree/ab6e430b25702b440977de5d72f57ff4b8f55858/Task%201)**
 
 ---
 
@@ -40,7 +40,7 @@ A clean and minimal personal branding landing page to highlight my identity as a
 - **CSS** – Styling and layout
 
 ## 🚀 How to Use
- -**Source Code** - https://github.com/lokesh-g7/TechieCodes/tree/ab6e430b25702b440977de5d72f57ff4b8f55858/Task%202
+ -**Source Code** - **[Task 2](https://github.com/lokesh-g7/TechieCodes/tree/ab6e430b25702b440977de5d72f57ff4b8f55858/Task%202)**
 
 
 ### ✅ `Task 3` – 🔢 Simple Calculator Web App
@@ -71,7 +71,7 @@ A sleek and interactive **calculator** built using **HTML, CSS, and JavaScript**
 - **JavaScript** – Functionality, theme handling, interactivity, power logic
 
 ## 🚀 How to Use
- -**Source Code** - https://github.com/lokesh-g7/TechieCodes/tree/4e4d38f9f04a549b89e853185ebe8d870ebc4655/Task%203
+ -**Source Code** - **[Task 3](https://github.com/lokesh-g7/TechieCodes/tree/4e4d38f9f04a549b89e853185ebe8d870ebc4655/Task%203)**
 
 
 
@@ -86,5 +86,4 @@ A sleek and interactive **calculator** built using **HTML, CSS, and JavaScript**
 
 Lokesh G
 Front-End Enthusiast | Tech Explorer
-📬 Connect on LinkedIn
-Linkedin : https://www.linkedin.com/in/lokesh-g-602561329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+📬 Connect on **[Linkedin](https://www.linkedin.com/in/lokesh-g-602561329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**.
